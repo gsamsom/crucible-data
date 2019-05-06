@@ -1,2 +1,9 @@
 
 *.fcz
+/*.dll
+/EditOneLife.exe
+/graphics/
+/groundTileCache/
+/log.txt
+/reverbCache/
+/settings
