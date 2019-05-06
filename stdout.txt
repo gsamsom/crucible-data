@@ -1,0 +1,35 @@
+shcore.dll loaded successfully
+Found SetProcessDpiAwareness function in shcore.dll
+Loaded 0 tagged overlays from overlays folder
+Opened a bin_v60_cache.fcz from the sounds folder with 359 files
+Opened a bin_v60_cache.fcz from the reverbCache folder with 359 files
+Loaded 359 sound IDs from sounds folder
+Loaded 359 reverbs from reverbCache folder
+Loaded 2066 tagged sprites from sprites folder
+Compressing took 0.007000 seconds
+Finished loading Sprite bank in 11.426000 sec
+Compressing took 0.207000 seconds
+Loaded 2427 animations from animations folder
+Finished loading animation bank in 3.862000 sec
+Object id 2482 (The Apocalypse# monumentCall) seen as an apocalypse trigger
+Compressing took 0.163000 seconds
+Loaded 2662 objects from objects folder
+Finished loading object bank in 3.649000 sec
+Decompressing took 0.001000 seconds
+Frame rate = 4.376751 frames/second
+Loaded 141 categories from categories folder
+Finished loading category bank in 0.289000 sec
+Decompressing took 0.002000 seconds
+Loaded 3220 transitions from transitions folder
+Frame rate = 47.961630 frames/second
+Frame rate = 59.844404 frames/second
+Frame rate = 60.132287 frames/second
+Frame rate = 59.417712 frames/second
+Frame rate = 59.665867 frames/second
+Frame rate = 60.168474 frames/second
+Frame rate = 60.132287 frames/second
+Frame rate = 59.988009 frames/second
+Frame rate = 59.988000 frames/second
+Frame rate = 59.844404 frames/second
+Frame rate = 60.024005 frames/second
+Frame rate = 60.096161 frames/second
