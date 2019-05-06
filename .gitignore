@@ -8,8 +8,12 @@
 /graphics/
 /groundTileCache/
 /log.txt
+/log.txt.backup
+/overlayImport/*.png
+/recordedGames/
 /reverbCache/
 /settings/
+/stdout.txt
 
 # System-generated paths:
 **/Thumbs.db
