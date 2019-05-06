@@ -1,2 +1,15 @@
-
+# Folder cache files:
 *.fcz
+
+# Paths used by the editor:
+/*.dll
+/EditOneLife
+/EditOneLife.exe
+/graphics/
+/groundTileCache/
+/log.txt
+/reverbCache/
+/settings/
+
+# System-generated paths:
+**/Thumbs.db
