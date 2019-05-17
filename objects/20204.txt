@@ -1,5 +1,5 @@
-id=945
-Collapsed Ore Mine#grasslands
+id=20204
+Collapsed Ore Mine#badlands
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
