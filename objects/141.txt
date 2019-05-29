@@ -1,11 +1,13 @@
 id=141
-Canada Goose Pond
+Canada Goose Pond#0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=1.000000#biomes_1
+mapChance=0.000000#biomes_1
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -23,18 +25,11 @@ deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,429:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=7
-spriteID=405
-pos=3.000000,21.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=743
 pos=3.000000,12.000000
 rot=0.000000
@@ -75,6 +70,14 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=20053
+pos=4.000000,12.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=406
 pos=28.000000,-10.000000
 rot=0.000000
@@ -89,5 +92,5 @@ backFootIndex=-1
 frontFootIndex=-1
 numUses=5,0.200000
 useVanishIndex=-1
-useAppearIndex=1,2,3,4
-pixHeight=56
+useAppearIndex=0,1,2,3
+pixHeight=43
