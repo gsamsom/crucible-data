@@ -1,0 +1,4 @@
+parentID=50
+pattern
+numObjects=1
+20256
