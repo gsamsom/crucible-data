@@ -1,5 +1,5 @@
 id=1874
-Wild Mango Tree#7
+Wild Mango Tree
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -122,7 +122,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
-useVanishIndex=-1
+numUses=7,1.000000
+useVanishIndex=4,5,6,7,8,9,10
 useAppearIndex=-1
 pixHeight=236
