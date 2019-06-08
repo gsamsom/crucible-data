@@ -1,4 +1,4 @@
-id=20001
+id=10876
 Bowl of Turnip Seeds
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
