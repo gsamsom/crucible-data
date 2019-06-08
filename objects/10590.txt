@@ -46,7 +46,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=20002
+spriteID=10512
 pos=-6.000000,-15.000000
 rot=0.000000
 hFlip=0
@@ -54,7 +54,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=20001
+spriteID=10511
 pos=-28.000000,1.000000
 rot=0.000000
 hFlip=1
