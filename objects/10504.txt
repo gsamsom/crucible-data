@@ -38,7 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=495
+spriteID=1860
 pos=-1.000000,-24.000000
 rot=0.000000
 hFlip=0
