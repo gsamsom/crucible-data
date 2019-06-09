@@ -1,1 +1,1 @@
-Cooked Turnip 0 0 0
+CookedTurnip 0 0 0
