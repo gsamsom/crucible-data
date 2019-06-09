@@ -3,6 +3,8 @@ Pond
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_1
@@ -23,11 +25,12 @@ deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,429:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=6
-spriteID=405
+spriteID=10478
 pos=3.000000,21.000000
 rot=0.000000
 hFlip=0
@@ -82,4 +85,4 @@ frontFootIndex=-1
 numUses=5,0.200000
 useVanishIndex=-1
 useAppearIndex=1,2,3,4
-pixHeight=56
+pixHeight=32
