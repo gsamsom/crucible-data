@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=10449
-pos=0.000000,-39.000000
+spriteID=10447
+pos=1.000000,-26.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
