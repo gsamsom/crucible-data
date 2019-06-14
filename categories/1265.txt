@@ -1,3 +1,4 @@
 parentID=1265
+pattern
 numObjects=1
 20010
