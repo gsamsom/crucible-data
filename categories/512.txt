@@ -1,4 +1,6 @@
 parentID=512
-numObjects=2
+pattern
+numObjects=3
 10378
 10380
+20036
